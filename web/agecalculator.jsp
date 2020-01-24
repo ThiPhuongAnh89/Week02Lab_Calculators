@@ -26,7 +26,7 @@
             </table>
         </form> 
             ${notice}
-            <a href="Week02Lab_Calculators/arithmetic">Arithmetic Calculator</a>
+            <a href="/Week02Lab_Calculators/arithmetic">Arithmetic Calculator</a>
 
         </div>
     </body>

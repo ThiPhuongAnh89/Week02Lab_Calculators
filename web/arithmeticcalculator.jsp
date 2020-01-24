@@ -36,7 +36,7 @@
             </table>
         </form> 
             ${result}
-            <a href="Week02Lab_Calculators/age">Age Calculator</a>
+            <a href="/Week02Lab_Calculators/age">Age Calculator</a>
 
         </div>
     </body>
